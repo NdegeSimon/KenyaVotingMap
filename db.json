@@ -1,0 +1,1696 @@
+{
+  "counties": [
+    {
+      "id": 1,
+      "name": "Mombasa",
+      "code": "001",
+      "candidates": [
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 750000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 350000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 300000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 90000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 2,
+      "name": "Kwale",
+      "code": "002",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 250000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 400000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 60000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 3,
+      "name": "Kilifi",
+      "code": "003",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 250000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 700000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 60000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 4,
+      "name": "Tana River",
+      "code": "004",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 200000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 150000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 300000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 40000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 5,
+      "name": "Lamu",
+      "code": "005",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 100000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 80000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 120000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 20000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 6,
+      "name": "Taita Taveta",
+      "code": "006",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 150000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 150000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 300000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 7,
+      "name": "Garissa",
+      "code": "007",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 150000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 200000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 250000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 8,
+      "name": "Wajir",
+      "code": "008",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 120000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 180000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 300000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 40000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 9,
+      "name": "Mandera",
+      "code": "009",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 100000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 150000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 350000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 10,
+      "name": "Marsabit",
+      "code": "010",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 80000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 120000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 250000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 40000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 11,
+      "name": "Isiolo",
+      "code": "011",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 50000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 100000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 180000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 12,
+      "name": "Meru",
+      "code": "012",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 500000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 600000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 250000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 90000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 13,
+      "name": "Tharaka Nithi",
+      "code": "013",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 250000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 300000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 120000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 14,
+      "name": "Embu",
+      "code": "014",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 350000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 100000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 60000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 15,
+      "name": "Kitui",
+      "code": "015",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 150000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 200000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 600000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 16,
+      "name": "Machakos",
+      "code": "016",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 400000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 600000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 80000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 17,
+      "name": "Makueni",
+      "code": "017",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 120000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 180000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 550000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 60000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 18,
+      "name": "Nyandarua",
+      "code": "018",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 350000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 80000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 40000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 19,
+      "name": "Nyeri",
+      "code": "019",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 600000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 650000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 120000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 70000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 20,
+      "name": "Kirinyaga",
+      "code": "020",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 350000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 400000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 100000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 21,
+      "name": "Murang'a",
+      "code": "021",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 650000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 700000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 150000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 80000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 22,
+      "name": "Kiambu",
+      "code": "022",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 800000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 950000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 200000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 100000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 23,
+      "name": "Turkana",
+      "code": "023",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 100000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 150000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 300000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 40000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 24,
+      "name": "West Pokot",
+      "code": "024",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 350000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 50000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 20000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 25,
+      "name": "Samburu",
+      "code": "025",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 150000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 200000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 80000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 26,
+      "name": "Trans Nzoia",
+      "code": "026",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 400000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 250000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 70000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 27,
+      "name": "Uasin Gishu",
+      "code": "027",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 600000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 800000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 100000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 28,
+      "name": "Elgeyo Marakwet",
+      "code": "028",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 350000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 400000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 20000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 10000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 29,
+      "name": "Nandi",
+      "code": "029",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 600000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 750000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 30000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 20000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 30,
+      "name": "Baringo",
+      "code": "030",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 400000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 500000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 50000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 31,
+      "name": "Laikipia",
+      "code": "031",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 250000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 300000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 200000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 60000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 32,
+      "name": "Nakuru",
+      "code": "032",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 400000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 650000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 450000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 120000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 33,
+      "name": "Narok",
+      "code": "033",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 400000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 500000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 100000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 34,
+      "name": "Kajiado",
+      "code": "034",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 300000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 450000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 350000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 80000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 35,
+      "name": "Kericho",
+      "code": "035",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 600000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 700000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 50000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 36,
+      "name": "Bomet",
+      "code": "036",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 550000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 650000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 40000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 20000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "William Ruto"
+    },
+    {
+      "id": 37,
+      "name": "Kakamega",
+      "code": "037",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 200000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 350000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 800000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 70000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 38,
+      "name": "Vihiga",
+      "code": "038",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 150000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 200000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 400000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 39,
+      "name": "Bungoma",
+      "code": "039",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 200000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 300000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 500000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 50000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 40,
+      "name": "Busia",
+      "code": "040",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 100000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 150000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 600000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 40000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 41,
+      "name": "Siaya",
+      "code": "041",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 50000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 80000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 750000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 20000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 42,
+      "name": "Kisumu",
+      "code": "042",
+      "candidates": [
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 900000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 100000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 150000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 30000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 43,
+      "name": "Homa Bay",
+      "code": "043",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 30000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 70000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 800000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 15000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 44,
+      "name": "Migori",
+      "code": "044",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 60000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 100000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 600000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 25000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 45,
+      "name": "Kisii",
+      "code": "045",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 250000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 400000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 500000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 200000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 46,
+      "name": "Nyamira",
+      "code": "046",
+      "candidates": [
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 200000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 300000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 400000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 80000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    },
+    {
+      "id": 47,
+      "name": "Nairobi",
+      "code": "047",
+      "candidates": [
+        {
+          "name": "Raila Odinga",
+          "party": "Azimio",
+          "partyColor": "#FF4500",
+          "potentialVoters": 920000,
+          "photo": "raila.jpg"
+        },
+        {
+          "name": "Rigathi Gachagua",
+          "party": "UDA",
+          "partyColor": "#90EE90",
+          "potentialVoters": 350000,
+          "photo": "rigathi.jpg"
+        },
+        {
+          "name": "William Ruto",
+          "party": "UDA",
+          "partyColor": "#FFD700",
+          "potentialVoters": 850000,
+          "photo": "william.jpg"
+        },
+        {
+          "name": "Fred Matiang'i",
+          "party": "Independent",
+          "partyColor": "#228B22",
+          "potentialVoters": 150000,
+          "photo": "matiangi.jpg"
+        }
+      ],
+      "leadingCandidate": "Raila Odinga"
+    }
+  ]
+}

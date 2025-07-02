@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+    <h1>Kenyan Election Map</h1>
+    <div class="tally-board">
+      <div class="party" id="uda">UDA<span>0</span></div>
+      <div class="party" id="odm">ODM <span>0</span></div>
+      <div class="party" id="dcp">DCP<span>0</span></div>
+      <div class="party" id="jubilee">JUBILEE<span>0</span></div>
+      <div class="party" id="winner">Winner <span>0</span></div>
+
+    </div>
+  </header>
+  <main>
+  <div class="map-container">
+    <div class="map" id="kenya-map">
+      <object data="assets/kenya.svg" type="image/svg+xml" id="kenya-map"></object>
+      <div class="overlay" id="overlay"></div>
+    </div>
+  <!-- This displays the content of the counties after the user clicks on the counties  -->
+    <div class="county-info" id="county-info">
+      <h2>Click on a county</h2>
+      <p><strong>County:</strong> <span id="county-name">-</span></p>
+      <p><strong>Leading Party:</strong> <span id="winning-party">-</span></p>
+      <p><strong>Votes:</strong></p>
+      <ul>
+        <li>William Ruto (UDA): <span id="votes-uda">0</span></li>
+        <li>Raila Odinga (ODM): <span id="votes-odm">0</span></li>
+        <li>Fred Matiangi (UPA): <span id="votes-upa">0</span></li>
+        <li>Rigathi Gachagua (DCP): <span id="votes-dcp">0</span></li>
+        <li>Rigathi Gachagua (DCP): <span id="votes-dcp">0</span></li>
+      </ul>
+    </div>
+  </main>
+     <footer>
+    <p>&copy; 2025 Kenyan Election Project | Created by Simon Peter</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
