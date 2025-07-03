@@ -8,7 +8,8 @@
 </head>
 <body>
    <header>
-    <h1>Kenyan Election Map</h1>
+    <h1>KENYAN ELECTION MAP</h1>
+    <hr style="border: 1px solid black;width: 300px;">
     <div class="tally-board">
       <div class="party" id="uda">UDA<span>0</span></div>
       <div class="party" id="odm">ODM <span>0</span></div>
@@ -19,26 +20,43 @@
     </div>
   </header>
   <main>
+    <div class="content-wrapper">
   <div class="map-container">
     <div class="map" id="kenya-map">
       <object data="assets/kenya.svg" type="image/svg+xml" id="kenya-map"></object>
       <div class="overlay" id="overlay"></div>
     </div>
+    </div>
   <!-- This displays the content of the counties after the user clicks on the counties  -->
-    <div class="county-info" id="county-info">
-      <h2>Click on a county</h2>
-      <p><strong>County:</strong> <span id="county-name">-</span></p>
-      <p><strong>Leading Party:</strong> <span id="winning-party">-</span></p>
-      <p><strong>Votes:</strong></p>
-      <ul>
-        <li>William Ruto (UDA): <span id="votes-uda">0</span></li>
-        <li>Raila Odinga (ODM): <span id="votes-odm">0</span></li>
-        <li>Fred Matiangi (UPA): <span id="votes-upa">0</span></li>
-        <li>Rigathi Gachagua (DCP): <span id="votes-dcp">0</span></li>
-        <li>Rigathi Gachagua (DCP): <span id="votes-dcp">0</span></li>
-      </ul>
+   <div class="county-info" id="county-info">
+  <div style="background-color: rgb(121, 121, 207); display: flex; justify-content: space-between; font-size: 2rem; padding: 5px;">
+    County: <span id="county-name">0</span>
+  </div>
+
+  <div style="background-color: yellow; display: flex; justify-content: space-between; font-size: 2rem; padding: 5px;">
+    William Ruto: <span id="votes-uda">0</span>
+  </div>
+
+  <div style="background-color: orangered; display: flex; justify-content: space-between; font-size: 2rem; padding: 5px;">
+    Raila Odinga: <span id="votes-odm">0</span>
+  </div>
+
+  <div style="background-color: rgb(235, 6, 6); display: flex; justify-content: space-between; font-size: 2rem; padding: 5px;">
+    Fred Matiangi: <span id="votes-upa">0</span>
+  </div>
+
+  <div style="background-color: rgb(64, 247, 80); display: flex; justify-content: space-between; font-size: 2rem; padding: 5px;">
+    Rigathi Gachagua: <span id="votes-dcp">0</span>
+  </div>
+
+  <div style="background-color: blue; display: flex; justify-content: space-between; font-size: 2rem; padding: 5px;">
+    Winner: <span id="winner">0</span>
+  </div>
+</div>
+
     </div>
   </main>
+  
      <footer>
     <p>&copy; 2025 Kenyan Election Project | Created by Simon Peter</p>
   </footer>
