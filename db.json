@@ -1,7 +1,7 @@
 {
   "counties": [
     {
-      "id": 1,
+      "id": "KE-01",
       "name": "Mombasa",
       "code": "001",
       "candidates": [
@@ -37,7 +37,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 2,
+      "id": "KE-02",
       "name": "Kwale",
       "code": "002",
       "candidates": [
@@ -73,7 +73,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 3,
+      "id": "KE-03",
       "name": "Kilifi",
       "code": "003",
       "candidates": [
@@ -109,7 +109,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 4,
+      "id": "KE-04",
       "name": "Tana River",
       "code": "004",
       "candidates": [
@@ -145,7 +145,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 5,
+      "id": "KE-05",
       "name": "Lamu",
       "code": "005",
       "candidates": [
@@ -181,7 +181,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 6,
+      "id": "KE-06",
       "name": "Taita Taveta",
       "code": "006",
       "candidates": [
@@ -217,7 +217,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 7,
+      "id": "KE=07",
       "name": "Garissa",
       "code": "007",
       "candidates": [
@@ -253,7 +253,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 8,
+      "id": "KE-08",
       "name": "Wajir",
       "code": "008",
       "candidates": [
@@ -289,7 +289,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 9,
+      "id": "KE-09",
       "name": "Mandera",
       "code": "009",
       "candidates": [
@@ -325,7 +325,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 10,
+      "id": "KE-10",
       "name": "Marsabit",
       "code": "010",
       "candidates": [
@@ -361,7 +361,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 11,
+      "id": "KE-11",
       "name": "Isiolo",
       "code": "011",
       "candidates": [
@@ -397,7 +397,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 12,
+      "id": "KE-12",
       "name": "Meru",
       "code": "012",
       "candidates": [
@@ -433,7 +433,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 13,
+      "id": "KE-13",
       "name": "Tharaka Nithi",
       "code": "013",
       "candidates": [
@@ -469,7 +469,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 14,
+      "id": "KE-14",
       "name": "Embu",
       "code": "014",
       "candidates": [
@@ -505,7 +505,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 15,
+      "id": "KE-15",
       "name": "Kitui",
       "code": "015",
       "candidates": [
@@ -541,7 +541,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 16,
+      "id": "KE-16",
       "name": "Machakos",
       "code": "016",
       "candidates": [
@@ -577,7 +577,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 17,
+      "id": "KE-17",
       "name": "Makueni",
       "code": "017",
       "candidates": [
@@ -613,7 +613,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 18,
+      "id": "KE-18",
       "name": "Nyandarua",
       "code": "018",
       "candidates": [
@@ -649,7 +649,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 19,
+      "id": "KE-19",
       "name": "Nyeri",
       "code": "019",
       "candidates": [
@@ -685,7 +685,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 20,
+      "id":  "KE-20",
       "name": "Kirinyaga",
       "code": "020",
       "candidates": [
@@ -721,7 +721,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 21,
+      "id": "KE-21",
       "name": "Murang'a",
       "code": "021",
       "candidates": [
@@ -757,7 +757,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 22,
+      "id": "KE-22",
       "name": "Kiambu",
       "code": "022",
       "candidates": [
@@ -793,7 +793,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 23,
+      "id": "KE-23",
       "name": "Turkana",
       "code": "023",
       "candidates": [
@@ -829,7 +829,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 24,
+      "id": "KE-24",
       "name": "West Pokot",
       "code": "024",
       "candidates": [
@@ -837,7 +837,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 300000,
+          "potentialVoters": 600000,
           "photo": "rigathi.jpg"
         },
         {
@@ -862,10 +862,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "William Ruto"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 25,
+      "id": "KE-25",
       "name": "Samburu",
       "code": "025",
       "candidates": [
@@ -873,7 +873,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 150000,
+          "potentialVoters": 250000,
           "photo": "rigathi.jpg"
         },
         {
@@ -898,10 +898,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "William Ruto"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 26,
+      "id": "KE-26",
       "name": "Trans Nzoia",
       "code": "026",
       "candidates": [
@@ -937,7 +937,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 27,
+      "id": "KE-27",
       "name": "Uasin Gishu",
       "code": "027",
       "candidates": [
@@ -973,7 +973,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 28,
+      "id": "KE-28",
       "name": "Elgeyo Marakwet",
       "code": "028",
       "candidates": [
@@ -1009,7 +1009,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 29,
+      "id": "KE-29",
       "name": "Nandi",
       "code": "029",
       "candidates": [
@@ -1045,7 +1045,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 30,
+      "id": "KE-30",
       "name": "Baringo",
       "code": "030",
       "candidates": [
@@ -1081,7 +1081,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 31,
+      "id": "KE-31",
       "name": "Laikipia",
       "code": "031",
       "candidates": [
@@ -1117,7 +1117,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 32,
+      "id": "KE-32",
       "name": "Nakuru",
       "code": "032",
       "candidates": [
@@ -1125,7 +1125,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 400000,
+          "potentialVoters": 800000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1150,10 +1150,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "William Ruto"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 33,
+      "id": "KE-33",
       "name": "Narok",
       "code": "033",
       "candidates": [
@@ -1189,7 +1189,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 34,
+      "id": "KE-34",
       "name": "Kajiado",
       "code": "034",
       "candidates": [
@@ -1225,7 +1225,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 35,
+      "id": "KE-35",
       "name": "Kericho",
       "code": "035",
       "candidates": [
@@ -1233,7 +1233,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 600000,
+          "potentialVoters": 800000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1258,10 +1258,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "William Ruto"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 36,
+      "id": "KE-36",
       "name": "Bomet",
       "code": "036",
       "candidates": [
@@ -1297,7 +1297,7 @@
       "leadingCandidate": "William Ruto"
     },
     {
-      "id": 37,
+      "id": "KE-37",
       "name": "Kakamega",
       "code": "037",
       "candidates": [
@@ -1305,7 +1305,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 200000,
+          "potentialVoters": 900000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1330,10 +1330,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "Raila Odinga"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 38,
+      "id": "KE-38",
       "name": "Vihiga",
       "code": "038",
       "candidates": [
@@ -1341,7 +1341,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 150000,
+          "potentialVoters": 1000000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1366,10 +1366,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "Raila Odinga"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 39,
+      "id": "KE-39",
       "name": "Bungoma",
       "code": "039",
       "candidates": [
@@ -1405,15 +1405,15 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 40,
+      "id": "KE-40",
       "name": "Busia",
       "code": "040",
       "candidates": [
         {
           "name": "Rigathi Gachagua",
           "party": "UDA",
-          "partyColor": "#90EE90",
-          "potentialVoters": 100000,
+          "partyColor": "green",
+          "potentialVoters": 900000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1438,10 +1438,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "Raila Odinga"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 41,
+      "id": "KE-41",
       "name": "Siaya",
       "code": "041",
       "candidates": [
@@ -1477,7 +1477,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 42,
+      "id": "KE-42",
       "name": "Kisumu",
       "code": "042",
       "candidates": [
@@ -1513,7 +1513,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 43,
+      "id": "KE-43",
       "name": "Homa Bay",
       "code": "043",
       "candidates": [
@@ -1549,7 +1549,7 @@
       "leadingCandidate": "Raila Odinga"
     },
     {
-      "id": 44,
+      "id": "KE-44",
       "name": "Migori",
       "code": "044",
       "candidates": [
@@ -1557,7 +1557,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 60000,
+          "potentialVoters": 700000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1582,10 +1582,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "Raila Odinga"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 45,
+      "id": "KE-45",
       "name": "Kisii",
       "code": "045",
       "candidates": [
@@ -1593,7 +1593,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 250000,
+          "potentialVoters": 750000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1618,10 +1618,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "Raila Odinga"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 46,
+      "id": "KE-46",
       "name": "Nyamira",
       "code": "046",
       "candidates": [
@@ -1629,7 +1629,7 @@
           "name": "Rigathi Gachagua",
           "party": "UDA",
           "partyColor": "#90EE90",
-          "potentialVoters": 200000,
+          "potentialVoters": 500000,
           "photo": "rigathi.jpg"
         },
         {
@@ -1654,10 +1654,10 @@
           "photo": "matiangi.jpg"
         }
       ],
-      "leadingCandidate": "Raila Odinga"
+      "leadingCandidate": "Rigathi Gachagua"
     },
     {
-      "id": 47,
+      "id":"KE-47",
       "name": "Nairobi",
       "code": "047",
       "candidates": [
